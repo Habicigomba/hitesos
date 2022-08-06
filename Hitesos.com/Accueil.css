@@ -1,0 +1,29 @@
+
+.Container{
+Width:100%;
+height:170%;
+Background-color: green;
+Color: white;
+Font-Size: X-large;
+Text-align: left;
+}
+
+
+.Head{
+Width:100%;
+height:10%;
+Background-color: blue;
+Color: red;
+Font-Size: large;
+Text-align: center;
+}
+
+
+.Appel{
+Width:100%;
+height:30%;
+Background-color: Yellow;
+Color: Red;
+Font-Size: X-large;
+Text-align: left;
+}
